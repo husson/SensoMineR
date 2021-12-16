@@ -1,6 +1,5 @@
 Package: SensoMineR
-Version: 1.26
-Date: 2020-05-19
+Version: 1.27
 Title: Sensory Data Analysis
 Author: Francois Husson, Sebastien Le, Marine Cadoret
 Maintainer: Francois Husson <husson@agrocampus-ouest.fr>
