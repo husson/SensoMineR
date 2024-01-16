@@ -8,4 +8,5 @@ Imports: cluster,KernSmooth,ggplot2,reshape2,AlgDesign,gtools,ggrepel
 Description: Statistical Methods to Analyse Sensory Data. SensoMineR: A package for sensory data analysis. S. Le and F. Husson (2008).
 License: GPL (>= 2)
 URL: http://sensominer.free.fr
+BugReports: https://github.com/husson/SensoMineR/issues
 Encoding: UTF-8
