@@ -2,10 +2,10 @@ Package: SensoMineR
 Version: 1.27
 Title: Sensory Data Analysis
 Author: Francois Husson, Sebastien Le, Marine Cadoret
-Maintainer: Francois Husson <husson@agrocampus-ouest.fr>
-Depends: R (>= 3.0), FactoMineR (>= 2.3)
+Maintainer: Francois Husson <francois.husson@institut-agro.fr>
+Depends: R (>= 4.0), FactoMineR (>= 2.7)
 Imports: cluster,KernSmooth,ggplot2,reshape2,AlgDesign,gtools,ggrepel
-Description: Statistical Methods to Analyse Sensory Data. SensoMineR: A package for sensory data analysis. S. Le and F. Husson (2008) <DOI:10.1111/j.1745-459X.2007.00137.x>.
+Description: Statistical Methods to Analyse Sensory Data. SensoMineR: A package for sensory data analysis. S. Le and F. Husson (2008).
 License: GPL (>= 2)
 URL: http://sensominer.free.fr
-Encoding: latin1
+Encoding: UTF-8
